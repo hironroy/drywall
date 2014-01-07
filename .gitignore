@@ -7,3 +7,7 @@ node_modules/*
 *.min.css
 /config.js
 .nodemonignore
+
+.idea/.name
+
+.idea/drywall.iml
